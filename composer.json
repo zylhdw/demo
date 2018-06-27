@@ -1,0 +1,14 @@
+{
+    "name": "zylhdw/demo",
+    "description": "a test for composer",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "zylhdw",
+            "email": "824311451@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
